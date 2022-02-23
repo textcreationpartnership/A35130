@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Glad-tydings proclaimed to the upright in heart who walk in the light of life and judgment pronounced against Bablyon and her merchants whose reward must be according to her deserts.</title>
+            <author>Crook, John, 1617-1699.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35130</idno>
+            <idno type="STC">Wing C7211</idno>
+            <idno type="STC">ESTC R28580</idno>
+            <idno type="EEBO-CITATION">10684892</idno>
+            <idno type="OCLC">ocm 10684892</idno>
+            <idno type="VID">45482</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35130)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45482)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1401:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Glad-tydings proclaimed to the upright in heart who walk in the light of life and judgment pronounced against Bablyon and her merchants whose reward must be according to her deserts.</title>
+                  <author>Crook, John, 1617-1699.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: John Crook.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45482:1"/>
+            <pb facs="tcp:45482:1"/>
+            <p>GLAD-TYDINGS PROCLAIMED TO THE Upright in Heart, Who walk in the Light of Life: AND Judgment pronounc'd AGAINST BABYLON, AND HER MERCHANTS: Whoſe REWARD muſt be according to her DESERTS.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:45482:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:45482:2"/>
+            <head>GLAD-TYDINGS proclaimed to the Upright in Heart, who walk in the Light of Life, &amp;c.</head>
+            <p>DEar Flocks of my heavenly Father, whom he hath viſited and choſen out of the world to be his peculiar treaſure, whoſe tears he hath botled up, and whoſe groans are in remembrance be<g ref="char:EOLhyphen"/>fore him, that he cannot withhold from doing you good. Oh ye Faithful and Valiant Ones for his Truth upon Earth! He hath ſeen, he hath ſeen your Afflicti<g ref="char:EOLhyphen"/>ons, Sufferings and Tryals, and hath weighed them in the ballance, and tempered your Cups, that you may ſay of the bittereſt of them, <hi>My God is the Portion of this alſo.</hi> Hath he ſmitten thy valiant men, and re<g ref="char:EOLhyphen"/>moved them hence? What is it for? becauſe of diſtaſte that he hath taken againſt thee, or, to bring thee (O <hi>Sion</hi>) to live in his Life that never dies. The former is to be ſearched into, and according to the diſco<g ref="char:EOLhyphen"/>very from God therein, the deep ſence is to be impreſ<g ref="char:EOLhyphen"/>ſed upon thy ſpirit; that his Will may be done, and his End anſwered. Shall I take up a Lamentation and ſay, <hi>How are thy mighty men fallen? and how haſt thou been tryed (O daughter of Sion) even ſince thy coming forth from amongſt the pots, and ſince thou haſt appeared out of the holes? Though thy dayes be but young, and thy beauty ſcarce diſcovered, yet how haſt thou been hunted? not only when thou waſt in the Wilderneſs and deſert Land; but ſince thou art on thy way to</hi> Canaan, <hi>how hath</hi> Amalek <hi>vexed thee, and the Nations every where been troubled
+<pb n="4" facs="tcp:45482:3"/>at thee? Art thou born unto it? and muſt it alwayes be ſo? Muſt War ſtill follow War, and new Tempeſts ariſe ſo ſoon as the Calms appear? What, no time given thee to put on thy beautiful Attire, and to ſhew thy ſelf forth to the alluring of the Nations? Yes ſurely, thou ſhalt have a Day, and thy Glory ſhall ſhine, and thy Beauty and Comlineſs be made manifeſt, as well as thy Blackneſs and Deformity. He is but emptying thee from Veſſel to Veſſel, that thou mayeſt not taſte of thy lees, but that thy words may be as new Wine, to refreſh the hearts of the mourners, and as Apples of Gold ſet in pictures of Silver, to take the eyes of the beholders, that it may be known that thy food is not that which will corrupt, but upon the Tree of Life, whoſe Leaves ſhall heal the Nations, and whoſe Fruit ſhall not fail, but in every month and change be green.</hi> Oh then, why ſhouldeſt thou not be content and throughly ſatisfied with all the dealings of thy God towards thee, and ſay, <hi>It is the Lord, let him do what ſeemeth good in his ſight;</hi> he will bring me forth after he hath thorowly purged me, and I ſhall ſhine as the Sun in luſtre, and triumph after the darkeſt day and thickeſt clouds: and then ſhalt thou ſee clearly, and underſtand the end of the Lord, as well in taking away thy mighty men, as all the reſt of his dealings towards thee; how that it is not only from the evil to come, but that their blood might cry (now their bo<g ref="char:EOLhyphen"/>dies are dead) louder, and more powerful than when they were living: For know (O <hi>Sion</hi>) to thy comfort, and (O <hi>Babylon</hi>) unto thy ſorrow, that though their Bodies be dead, their Blood ſpeaks, and the ſpillers thereof ſhall not eſcape in the day of the Inquiſition of the mighty God: for from this hand thou ſhalt have
+<pb n="5" facs="tcp:45482:3"/>Juſtice, and the Nations ſhall know it, and be aſhamed and confounded for ever. For the Spirit of the Lord is upon me to proclaim <hi>Glad-Tydings</hi> in thine ears, in the Authority of his Life, and Dominion of his Name, and to tell them that thy Warfare is nigh to be ac<g ref="char:EOLhyphen"/>compliſhed, and thy Redemption out of the hands of all thine Enemies haſtens, that thou ſhalt worſhip and ſerve thy God in the beauty of Holineſs and Land of the Living, when <hi>Babylon,</hi> with all her Upholders and Adherents, ſhall not have whereon to lay their heads, or ſet their feet; but, as ſhe hath dealt to <hi>Je<g ref="char:EOLhyphen"/>ruſalem,</hi> ſo ſhall it be meaſured to her again, <hi>(The Word of the Lord hath ſpoken it)</hi> Only wait ye, wait ye in the Shepherds Tents with the Flocks of the Compa<g ref="char:EOLhyphen"/>nions, and theſe things you ſhall ſee aſſuredly brought to paſs; And the time haſtens that he that hath Wiſdom ſhall reade, and he that hath Underſtanding, ſhall un<g ref="char:EOLhyphen"/>derſtand the number 666, and the Name, and the number of the Beaſt, and of his Name: for it is the number of a man; he that can reckon, let him. The Key to open this Myſtery, and to unlock this Secret, is the Brightneſs of the coming of the Son of Righ<g ref="char:EOLhyphen"/>teouſneſs, ſhining unto the ſoul, to give the diſcovery of every motion of the ſpirit of man, in the things of God, that it may paſs no longer for the Spirit of God, but may be ceaſed from for ever, in praying, in ſpeak<g ref="char:EOLhyphen"/>ing, with all the reſt of God's Worſhip and Service; that all may be done by the Spirit of his mouth, who hath the <hi>Keys of David; and openeth, and none ſhutteth, and ſhutteth, and none openeth:</hi> Then ſhall be read and diſtinguiſhed the <hi>Miniſtration</hi> from the <hi>Miniſtrator,</hi> that when he removes, the Miniſtration may not be
+<pb n="6" facs="tcp:45482:4"/>adored, but the Lamb followed where-ever he goes: ſo ſhall there be no more Sea, but the former things ſhall be paſſed away, and a Sea of glaſs mingled with fire, appear in the room thereof, and the followers of the Lamb ſtanding by it, as with Harps in their hands, and Praiſe in their mouths, unto the Moſt High, that lives for ever.</p>
+            <p>Oh my dear Friends, Brethren and Companions, whom my ſoul greeteth with theſe Salutations of <hi>Love</hi> and <hi>good Tydings;</hi> what ſhall I ſay to you all that may be as Oyl to make your faces ſhine, and Wine to make your hearts glad in the midſt of all your beſettings, huntings, and temptations: Your God ſees and be<g ref="char:EOLhyphen"/>holds, and ponders all your tryals: Leave them all with him, and caſt your care wholly upon him; for by all yours not one cubit can be added to the ſta<g ref="char:EOLhyphen"/>ture. He will bring to paſs his Purpoſe, and your deſires. O ye upright in heart, be faithful unto him, and follow thoſe things that make for Peace; and take heed of this preſent world, that neither its ri<g ref="char:EOLhyphen"/>ches, its frowns, its fears, its ſufferings, nor its plea<g ref="char:EOLhyphen"/>ſures may move you out of your Tents; but that the ſigns of the coming of the Son of man may be alwayes in your eye, leſt either the marrying, or giving in mar<g ref="char:EOLhyphen"/>riage (ſpoken of) or the beating of the fellow-ſervants, do overtake any of you; and then the Kingdom of Heaven be indeed like unto ten Virgins, five wiſe, and five fooliſh.</p>
+            <p>Theſe things are written, not to upbraid any, but to forewarn all, that they ſtir not out of their Tents, but dwell continually in the lowly mind, preferring one another before themſelves; cheriſhing the good
+<pb n="7" facs="tcp:45482:4"/>in all, and ſtrengthning the weak hands; dwelling as Saviours upon <hi>Mount Sion:</hi> For it is eaſie to judge and condemn, but hard to ſave; So ſhall ye be known to be the Children of the moſt High, and, as Epiſtles written upon one anothers hearts, ſeen and read of all men; and the bleſſed Preſence of your Father will be with you, and his Glory will not ceaſe to reſt up<g ref="char:EOLhyphen"/>on you: which is the deſire of my travelling ſoul for you all, who am</p>
+            <closer>
+               <signed>Your Brother and Companion in the Faith and Patience of JESUS. <hi>JOHN CROOK.</hi>
+               </signed>
+               <dateline>From viſiting my Fathers Children,
+<date>the 17th of the 12th Month. 1662.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
